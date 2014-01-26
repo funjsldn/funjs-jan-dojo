@@ -18,7 +18,7 @@ To compile the ClojureScript and launch the web server.
 lein dev
 ```
 
-The project will now be server on port 3000. The source files in
+The project will now be served on port 3000. The source files in
 `src/cljs` are monitored for changes, so simply save and refresh your
 browser window to see your changes.
 
